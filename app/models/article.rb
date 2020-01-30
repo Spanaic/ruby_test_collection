@@ -1,0 +1,1 @@
+# enum state: %i[draft wait_publish published]
